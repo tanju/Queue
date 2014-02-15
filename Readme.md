@@ -3,6 +3,7 @@
 This is a queue (circular buffer) that may be used as a communication buffer
 on an Arduino
 
+'''
 Queue commQueue<byte, 20>;
 
 void loop(){
@@ -14,4 +15,4 @@ void loop(){
     Serial.print( commQueue.read() );
   }
 }
-
+'''
