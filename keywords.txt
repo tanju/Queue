@@ -1,0 +1,9 @@
+# Datatypes (KEYWORD1)
+Queue	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+push	KEYWORD2
+pop	KEYWORD2
+
+# Constants (LITERAL1)
+
